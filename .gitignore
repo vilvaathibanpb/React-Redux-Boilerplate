@@ -2,7 +2,7 @@
 node_modules/
 
 # Project
-dist/
+public/
 
 #Package-lock
 package-lock.json
