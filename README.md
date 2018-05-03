@@ -1,1 +1,0 @@
-#React-Redux-Router-Webpack Boilerplate
