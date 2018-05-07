@@ -2,7 +2,7 @@ import { actions } from "../../constants/actions.types";
 
 export const firstReducer = (
   state = {
-    project: "CS-SS"
+    project: "CS-SS-Dev"
   },
   action
 ) => {
